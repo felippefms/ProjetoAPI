@@ -1,2 +1,2 @@
 # ProjetoAPI
-Um pequeno projeto de Web Service utilizando Express
+Um pequeno projeto de CRUD utilizando Express
